@@ -220,7 +220,7 @@ Conda Packaging {data-background="images/Picture5.jpg"}
     + What are we building, and what does it depend on?
     + Run `conda build` to create a package from this recipe
 
-conda packaging {data-background="images/Picture5.jpg"}
+Conda Packaging {data-background="images/Picture5.jpg"}
 ---------------
 
 `meta.yaml`
@@ -239,7 +239,7 @@ requirements:
     - scikit-learn
 ```
 
-conda packaging {data-background="images/Picture5.jpg"}
+Conda Packaging {data-background="images/Picture5.jpg"}
 ---------------
 
 Build the package:
