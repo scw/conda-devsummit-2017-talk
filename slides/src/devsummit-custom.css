@@ -1,12 +1,13 @@
 /* 
  * Minor customizations for stylistic improvments.
- * Shaun Walbridge, Esri 2016
+ * Shaun Walbridge, Esri 2017
  */
 
 .reveal pre.sourceCode {
     line-height: 1.5em;
     font-size: .75em;
     width: 100%;
+    font-family: "Consolas", monospaced;
 }
 
 .reveal h1 {
@@ -58,6 +59,10 @@
 
 .reveal a {
     color: #c0e8ff;
+}
+
+.reveal code {
+    font-family: "Consolas", monospaced;
 }
 
 pre, code {
